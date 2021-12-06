@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img alt="watch me" title="watch me" src="public/logowatchme.png" width="220px" />
+  <img alt="watch me" title="watch me" src="public/logowatchme.svg" width="220px" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="watch me" src="public/layoutwatchme.svg" width="100%">
+  <img alt="watch me" src="public/layoutwatchme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
