@@ -33,4 +33,4 @@ export function MovieCard(props: MovieCardProps) {
       </div>
     </div>
   )
-}
+};

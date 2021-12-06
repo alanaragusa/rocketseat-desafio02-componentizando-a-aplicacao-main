@@ -16,4 +16,4 @@ export function Button({ iconName, title, selected, ...rest }: ButtonProps) {
       {title}
     </button>
   );
-}
+};
