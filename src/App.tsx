@@ -12,8 +12,6 @@ import './styles/global.scss';
 export function App() {
   return (
     <>
-      <Button />
-      <MovieCard />
       <SideBar />
       <Content />
     </>
