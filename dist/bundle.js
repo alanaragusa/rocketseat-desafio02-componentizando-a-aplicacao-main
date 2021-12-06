@@ -1,9 +1,9 @@
 "use strict";
 
-var _reactDom = require("react-dom");
+import { render } from "react-dom";
 
-var _App = require("./App");
+import { App } from "./App";
 
-var _jsxRuntime = require("react/jsx-runtime");
+import { jsx } from "react/jsx-runtime";
 
-(0, _reactDom.render)( /*#__PURE__*/(0, _jsxRuntime.jsx)(_App.App, {}), document.getElementById('root'));
+(0, render)( /*#__PURE__*/(0, jsx)(App, {}), document.getElementById('root'));
